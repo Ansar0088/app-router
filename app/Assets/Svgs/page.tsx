@@ -1,0 +1,15 @@
+export { default as Belicon } from "./Belicon.svg";
+export { default as Mid } from "./Mid.svg";
+export { default as Lst } from "./Lst.svg";
+export { default as Menuone } from "./Menuone.svg";
+export { default as Menutwo } from "./Menutwo.svg";
+export { default as Menuthree } from "./Menuthree.svg"; 
+export { default as Find } from "./Find.svg";
+export { default as Sharp } from "./Sharp.svg";
+export { default as Rounded } from "./Rounded.svg";
+export { default as Fulround } from "./Fulround.svg";
+export { default as Big } from "./Big.svg";
+export { default as Midle } from "./Midle.svg";
+export { default as Large } from "./Large.svg";
+export { default as Upload } from "./Upload.svg";
+export { default as Plus } from "./Plus.svg";
